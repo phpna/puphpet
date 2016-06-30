@@ -210,7 +210,7 @@ letsencrypt:
 php:
     install: '1'
     settings:
-        version: '56'
+        version: '70'
     modules:
         php:
             - cli
